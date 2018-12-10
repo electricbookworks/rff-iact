@@ -3,18 +3,22 @@ title: Contact
 description: ""
 ---
 
+# Partners
+
+iAct is a collaborative effort of several partners. The Roger Federer Foundation has led and funded the development and implementation of the course. The technical design of the course was done in partnership with SAIDE. The lead partner in Zambia, ROCS, is responsible for the coordination of the ground, both in terms of development and implementation. In the 2018/2019 round, co-implementing partners are DAPPS and ZOCS. 
+
+The Roger Federer Foundation supports access to quality education for marginalised and vulnerable children in Switzerland and in six Southern African countries,  namely Botswana, Namibia, Zambia, Zimbabwe, Malawi and South Africa. The Foundation works exclusively in partnership with and through local non-governmental organisations. In turn, the local implementing partners work directly with schools, local communities, and national and local governments. Visit [www.rogerfedererfoundation.org] to learn more about the Foundation. 
+
+The South African Institute for Distance Education [www.saide.org.za]
+
+The Reformed Open Community Schools (ROCS) is a child focused process facilitator organisaation that empowers communities to transform their schools for improved learner outcomes. ROCS is a recognised stakeholder in supporting orphans and vulnerable children to access quality education in rural and peri-urban areas of Zambia. Visit [www.rocsedu.org] to learn more. 
+
+Development Aid from People to People (DAPP) has been the main co-implementing partner in the iAct programme already in 2017/2018. LINK
+
+Zambia Open Community Schools (ZOCS) is on of the Zambian partners of the Roger Federer Foundation, other than the iAct programme. LINK
+
 # Contact us
 
+For general inquiries or specific technical support (for instance, on how to access the database reflecting the activity of current iAct users), please contact us. 
+
 {% include contact-form.html %}
-
-**Name**\\
-Street\\
-Suburb\\
-City
-
-[info@example.com](mailto:us@example.com)\\
-+27 21 000 0000
-
-<div class="map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1503.5609978296388!2d127.783638!3d26.357876!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34e5118a41c177f3%3A0xcfa4cf58f659436e!2sBATMAN!5e1!3m2!1sen!2sus!4v1521813482310" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>

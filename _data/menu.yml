@@ -9,10 +9,13 @@
 
 - label: "Home"
   link: ""
-- label: "About us"
+- label: "Using the iAct app"
+  link: "using-the-iact-app" 
+- label: "Course structure"
+  link: "course-structure"
+- label: "Resources"
+  link: "resources"
+- label: "About iAct"
   link: "about"
-  submenu:
-    - label: "Our team"
-      link: "about#our-team"
-- label: "Contact us"
+- label: "Contact"
   link: "contact"

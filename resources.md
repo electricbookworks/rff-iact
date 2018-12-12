@@ -20,5 +20,4 @@ Within the facilitated programme, Zonal In-service Coordinators get trained by d
 
 ## The trainers' guide
 
-Within the facilitated programme, District Education Board Secretariat as well as NGO district supported get trained. For free users or those who want to encourage the establishment of groups of free users, this document might provide a lot of background as basis for ideas to set up an own roll -out model. 
-
+Within the facilitated programme, District Education Board Secretariat as well as NGO district supported get trained. For free users or those who want to encourage the establishment of groups of free users, this document might provide a lot of background as basis for ideas to set up an own roll-out model. 

@@ -16,7 +16,7 @@ The NGO partners in turn trained MoGE officials as course facilitators at distri
 
 A one-day orientation of teachers in each zone was carried out by ZICs. The orientation involves demonstrations on how to use the tablet, the study guide and role plays on how to work through the course in groups, register for the self-tests and how these would be monitored by course supervisors. 
 
-Download the registration guide and instructions for sending codes after each self-test here. LINK
+> Download the registration guide and instructions for sending codes after each self-test here. LINK
 
 After the orientation, teachers were given the tablet and recharging equipment to take back to their schools and embarked on the course in weekly group activities using the course.
 

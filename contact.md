@@ -1,6 +1,5 @@
 ---
 title: Contact
-description: ""
 ---
 
 # Partners
@@ -16,6 +15,8 @@ The Reformed Open Community Schools (ROCS) is a child focused process facilitato
 Development Aid from People to People (DAPP) has been the main co-implementing partner in the iAct programme already in 2017/2018. Visit [dappzambia.org](http://www.dappzambia.org/) to learn more.
 
 Zambia Open Community Schools (ZOCS) is on of the Zambian partners of the Roger Federer Foundation, other than the iAct programme. Visit [zambiaopencommunityschools.com](http://zambiaopencommunityschools.com/) to learn more.
+
+---
 
 # Contact us
 

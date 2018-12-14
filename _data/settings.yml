@@ -20,7 +20,7 @@ language: "en"
 image: "avatar.png"
 
 # The logo for your site, if you have one
-logo: "logo-bw.jpg"
+logo: "logo.jpg"
 
 # The final, canonical address of your live site
 url: "http://iact.info"

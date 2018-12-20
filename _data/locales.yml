@@ -138,7 +138,7 @@ en:
   excerpt:
     more: "More"
   footer:
-    credit: "Built with the [Electric Book Works](https://electricbookworks.com) [Jekyll starter template](https://github.com/electricbookworks/jekyll-starter)."
+    credit: ""
   input:
     send: "Send"
     submit: "Submit"

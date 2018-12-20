@@ -97,13 +97,10 @@ $break-point-xl: ($content-width * 2) + $side-nav-width + 10em;
 
 //Navigation//
 
-.nav-wrapper {
+.nav-wrapper nav ul {
 	border-right-style: solid;
 	border-right-color: $link-color;
-	height: 20%;
-}
-
-.nav-wrapper nav ul {
+	padding-right: $line-height * 1em;
 	text-align: right;
 }
 

@@ -8,12 +8,13 @@ While originally developed for the NGO-facilitated roll-out (iAct programme), th
 
 ## The iAct Poster
 
-It provides a good overview about the iAct course and the importance and advantages of interactive teaching methods. It is very useful to be placed in resource centres or school admin rooms. 
+<a href="/pdfs/iAct-poster.pdf" target="_blank">{% include image file="iact-poster.jpg" class="poster" %}</a>
+It provides a good overview about the iAct course and the importance and advantages of interactive teaching methods. It is very useful to be placed in resource centres or school admin rooms. [Download PDF »](/pdfs/iAct-poster.pdf)
 
 ## The teachers' guide
 
 <a href="/pdfs/iAct-Teacher-Guide.pdf" target="_blank">{% include image file="teacher-guide.jpg" class="poster" %}</a>
-Basically, the use of the iAct app should be self-explanatory. Still, the teachers' guide gives some background and further details useful for any group which is establishing as an iAct learning team. [Download PDF »](/pdfs/iAct-Teacher-Guide.pdf)
+Basically, the use of the iAct app should be self-explanatory. Still, the teachers’ guide gives some background and further details useful for any group which is establishing as an iAct learning team. [Download PDF »](/pdfs/iAct-Teacher-Guide.pdf)
 
 ## The facilitators' guide
 

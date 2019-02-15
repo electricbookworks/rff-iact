@@ -20,8 +20,11 @@ Another situation might be that a school that was part of the facilitated roll-o
 
 ## Minimum phone or tablet requirements for using iAct
 
+See below for the instructions on how to run the iAct app on your Lenovo tablet. For more information on installing the app, as well as setting up your tablet and performing software updates, [download the PDF installation manual](pdfs/iAct-installation-manual.pdf).
+
 * iAct works with a number of videos that come with the application. These need to be saved either in your phone internal storage or in an SD card.
 
+<<<<<<< HEAD
 * Please make sure you have an SD card or internal storage of not less than 7G, the space you will need to store the videos and the application. 
 
 * Whether you are installing the iAct application manually or via the Google Playstore, it is wise to download the videos onto your device so that they are available to use offline/where there is no internet connection. The videos need to be saved as they are without changing their name and they need to be in a folder marked ???? to make sure the iAct application finds them.

@@ -91,15 +91,16 @@ $break-point-xl: ($content-width * 2) + $side-nav-width + 10em;
 	padding: 2em;
 }
 
-//Navigation//
-
-.nav-wrapper {
-	border-right-style: solid;
-	border-right-color: $link-color;
-	height: 20%;
+.masthead .logo img {
+	max-height: 4em;
 }
 
+//Navigation//
+
 .nav-wrapper nav ul {
+	border-right-style: solid;
+	border-right-color: $link-color;
+	padding-right: $line-height * 1em;
 	text-align: right;
 }
 
@@ -109,16 +110,43 @@ $break-point-xl: ($content-width * 2) + $side-nav-width + 10em;
 h1 {
 	margin: 1em 0 0.75em 0;
 }
+
+h5 {
+	color: $text-color-mid;
+	font-weight: 400;
+	line-height: 150%;
+}
+
 h6 {
 	color: $text-color-mid;
 	font-weight: 400;
 }
 
+blockquote {
+	border-left-style: solid;
+	border-left-color: $text-color-mid;
+}
+
 //Images//
  
-.content img {
-	display: inline;
+.poster {
+	float: left;
 	border: solid 1px;
+	width: 30%;
+}
+
+.partner {
+	float: left;
+	width: 30%;
+}
+
+.content img {
+	margin-bottom: 2em;
+	margin-right: 2em;
+}
+
+a img {
+	color:black;
 }
 
 //Buttons//
@@ -131,5 +159,11 @@ a.button {
 
 a.button:hover, input[type="submit"]:hover{
 background-color:#c24a40;
+box-shadow: 0 0 0 0;
+}
+
+input[type="submit"] {
+	background-color: $link-color;
+	color: #ffffff;
 }
 

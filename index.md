@@ -8,7 +8,7 @@ style: home
 
 iAct stands for “interactive learning and teaching”. iAct teaching methods boost an educator’s teaching skills tremendously, resulting in better learner performance and making life in the classroom better and more participatory for both teachers and pupils. The iAct application takes groups of pre-primary and primary school teachers through a school-based continuing professional development course. While it was primarily designed for untrained volunteer primary school teachers working in Zambia’s community-managed schools, it is a big opportunity for every educator who wants to improve or refresh their pedagogical skills.
 
-In terms of the course structure and content, iAct has a total of four modules which are each covered over a five week period. The course if therefore done over the course of 20 weekly exercises. [Download the course structure here](course-structure) and learn more about the iAct programme in Zambia in the video below.
+In terms of the course structure and content, iAct has a total of four modules which are each covered over a five week period. The course is therefore done over the course of 20 weekly exercises. [See the course structure here](course-structure) and learn more about the iAct programme in Zambia in the video below.
 
 <a href="" target="_blank">{% include image file="play-video.jpg"%}</a>
 

@@ -6,9 +6,11 @@ title: iAct in Zambia
 
 The Roger Federer Foundation’s main implementing partner, ROCS, was trained by the iAct technical partner, Saide, on how to roll the course out, manage the course database and provide technical support to iAct course participants and support structures. The strategy used was to utilise existing district and sub-district structures of the Ministry of General Education (MoGE).
 
-{% include image file="case-study-4.jpg"%}
+{% include image file="equipment.png"%}
 
 After the initial training of ROCS facilitators, ROCS recruited and trained other implementing NGO partners who worked in several geographic areas, namely ZOCS, DAPP, PAF and Diakonia.
+
+{% include image file="case-study-4.jpg"%}
 
 The NGO partners in turn trained MoGE officials as course facilitators at district and zone (sub-district) level. This entailed the involvement of District Resource Centre Coordinators (DRCCs), District Education Standards Officers (DESOs) as support facilitators, and Zonal In-service Coordinators (ZICs) as frontline facilitators working directly with community school teachers.
 

@@ -8,7 +8,7 @@ While originally developed for the NGO-facilitated roll-out (iAct programme), th
 
 ## The iAct Poster
 
-<a href="/pdfs/iAct-poster.pdf" target="_blank">{% include image file="iact-poster.jpg" class="poster" %}</a>
+<a href="rff-iact/pdfs/iAct-poster.pdf" target="_blank">{% include image file="iact-poster.jpg" class="poster" %}</a>
 It provides a good overview about the iAct course and the importance and advantages of interactive teaching methods. It is very useful to be placed in resource centres or school admin rooms. [Download PDF »](/pdfs/iAct-poster.pdf)
 
 ## The teachers' guide

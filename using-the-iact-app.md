@@ -8,7 +8,7 @@ There are two methods of downloading and setting up iAct on an Android device.
 
 You could either download the iAct application on Google Play or manually set up the application using a set of files provided to you by the iAct programme team.
 
-[DOWNLOAD THE APP NOW](https://play.google.com/store/apps/details?id=ie.iact.iactonline){: .button}
+[DOWNLOAD THE APP NOW](https://play.google.com/store/apps/details?id=io.rff.saide.iact){: .button}
 
 ---
 # Install instructions
@@ -24,27 +24,25 @@ You could either download the iAct application on Google Play or manually set up
 
 [Download the PDF manual](/pdfs/GooglePlay-android-manual.pdf) or follow the instructions below
 
-1. Open your Google Play application. If you do not already have the application, visit the [Google Play store](https://play.google.com/store)
+1. Open your Google Play application. If you do not already have the application, visit the [Google Play store](https://play.google.com/store/apps/details?id=io.rff.saide.iact)
 2. Type iAct. You might get several possible iAct applications. The one you want has the following logo and details.
 
-{% include image file="how-to-1.png"%}
+	{% include image file="how-to-4.png"%}
 
 3. Tap install to start install the application to your phone or tablet.  
 4. While the application installs, Google Playstore will show you progress in percentage from 0-100% then it will automatically start installing. Wait for the download to fully install afterwhich it will show two buttons. One says “uninstall” and the other is an “open” button. Click “open”.
-5. A welcome dialogue box will appear. See below:
-
-SCREENSHOT TBC
-
+5. A welcome dialogue box will appear.
 6. Your phone will ask you to whether you want to “Allow iAct to access photos, media and files on your device?”. There will be an option to “Deny” or “Allow”. Click “Allow”.
-7. After clicking to allow the application to access photos, media and files, you will remain with the welcome dialogue box as below.
 
-SCREENSHOT TBC
+	{% include image file="how-to-3.jpg"%}
+
+7. After clicking to allow the application to access photos, media and files, you will remain with the welcome dialogue box.
 
 8. Read the dialogue box and make sure you understand the note and then click “Got it”.
 
 9. The application will take you to the course menu that looks like the one below.
 
-SCREENSHOT TBC
+	{% include image file="how-to-2.jpg"%}
 
 10. This is where you can start the iAct course. Start by studying the Introduction Section before moving on to the Modules 1, 2, 3 and 4.
 11. iAct is self-guided, so you will be guided on what to do at every step until you finish the course. But if you have any problems along the way, visit the “Help”section at the bottom of the menu after Module 4.
@@ -73,4 +71,4 @@ The best way to run the app is to have the videos on an SD card, so you should c
 
 7. You can now run the iAct app (assuming that your device has a video app installed). 
 
-8. The app is mostly self-explanatory. However, to be able to do the self-assessments and weekly tests, you need to first register as a user (see *Registration* in the *Introduction* menu). This is only possible, if an administrator with an admin password has entered an “EMIS” number (up to 7 digits, meant to identify the school of a participant). If required, please ask for the admin password: foundation@rogerfederer.com. 
+8. The app is mostly self-explanatory. However, to be able to do the self-assessments and weekly tests, you need to first register as a user (see *Registration* in the *Introduction* menu). This is only possible, if an administrator with an admin password has entered an “EMIS” number (up to 7 digits, meant to identify the school of a participant). If required, please ask for the admin password: [foundation@rogerfederer.com](mailto:foundation@rogerfederer.com)

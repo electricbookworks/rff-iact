@@ -59,7 +59,9 @@ If the videos are in the wrong place, the app can’t show them offline, but wil
 
 The best way to run the app is to have the videos on an SD card, so you should check whether the remaining storage on the SD card is > 7 GB (if not, consider to replace the SD card with a bigger one). Alternatively, you can copy the video files to the device’s internal storage (which also needs to have at least 7 GB remaining 
 
-1. Go to the dropbox folder [*iAct download*](https://www.dropbox.com/sh/7ploeyhly2bsgtd/AAANJgF06cPTgBun-1SNZbF6a?dl=0) and save the complete folder *Videos* to the main directory (no subfolder!) either of the SD card or of the internal storage of your device. 
+1. [Click here to download the iAct app in a zip file](https://www.dropbox.com/sh/7ploeyhly2bsgtd/AAANJgF06cPTgBun-1SNZbF6a?dl=1) and save it to the main directory (no subfolder!) either of the SD card or of the internal storage of your device.
+
+2. Extract/Unzip the files to a folder to be named `/DCIM/iAct` or to the memory card in a folder to be named `/Videos`.
 
 2. Check whether the folder *Videos* contains all 4+39 iAct videos (never change any names) as well as the application file (*iact.apk*) and the pdf reader (*AdobeReader.apk*).
 

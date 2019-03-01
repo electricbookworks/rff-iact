@@ -4,73 +4,82 @@ title: Using the iAct app
 
 # Using the iAct application
 
-There are two methods of downloading and setting up iAct on an Android device.
+A core element in the implementation of iAct is a district representative who supports the education
+authorities at district and sub-district level, so that the teachers (both volunteers and government-paid) in the targeted community schools receive tablets for the time of the course and are supervised. However, tablets
+and smartphones are increasingly common and because the iAct course, once it is downloaded to the device,
+is an offline application, bandwidth and connectivity costs don’t build a barrier to benefitting from the course cost for free.
 
-You could either download the iAct application on Google Play or manually set up the application using a set of files provided to you by the iAct programme team.
+It is all about peer-to-peer learning! Building a group and arranging for regular meetings to jointly work on the weekly units is key. The learning impact of the iAct application depends on the intensity of working as a
+“community of practice”. For instance, really successful learning groups usually take videos from each other
+when practicing a certain teaching method or skill and then discuss this example in the group.
 
-[DOWNLOAD THE APP NOW](https://play.google.com/store/apps/details?id=io.rff.saide.iact){: .button}
+A typical way to make use of the iAct course would be a teacher in a school, asking a few colleagues to build a learning group over 20 weeks (typically the first and second term) and organize this completely
+independently.
+
+Another situation might be that a community school that was part of the facilitated roll-out the year before,
+co-opts new teachers or teachers from a neighbouring non-participating school who want to join the course
+for the first time. If someone has a tablet or a smartphone, a new round of the iAct course even supported by
+the sub-regional support teams can take place.
 
 ---
 # Install instructions
 
-## Minimum requirements for downloading iAct using Google Play or manually setting up
+There are two methods of downloading and setting up iAct on an Android device.
 
-* iAct works with a number of videos that come with the application. These need to be saved either in your phone internal storage or in an SD card.
-* Please make sure you have an SD card that has more than 7G, the space you will need to store the videos
-* If you do not have an SD card, alternatively, you can store the videos have at least 
+You could either download the iAct application on Google Play or manually set up the application using an apk file provided through this website.
 
+In both cases, it is advised to download all videos from this website for offline use. The video files need to be saved either to the path “DCIM/iAct” in the internal storage or to the path “Videos” on the memory card and must not be renamed. Note that about 2GB free storage are needed for the videos. Download the videos [here](https://www.dropbox.com/sh/i09tp2j3fnpmrod/AABNf8yMSuhvreFjRgPrTvrza?dl=1&preview=iAct.zip).
 
 ## Method 1 – Setting up via GooglePlay
 
-[Download the PDF manual](/pdfs/GooglePlay-android-manual.pdf) or follow the instructions below
+Download [PDF version for print-out](/pdfs/GooglePlay-android-manual.pdf) or follow the instructions below.
 
-1. Open your Google Play application. If you do not already have the application, visit the [Google Play store](https://play.google.com/store/apps/details?id=io.rff.saide.iact)
-2. Type iAct. You might get several possible iAct applications. The one you want has the following logo and details.
+[DOWNLOAD THE APP NOW](https://play.google.com/store/apps/details?id=io.rff.saide.iact){: .button}
 
-	{% include image file="how-to-4.png"%}
-
-3. Tap install to start install the application to your phone or tablet.  
-4. While the application installs, Google Playstore will show you progress in percentage from 0-100% then it will automatically start installing. Wait for the download to fully install afterwhich it will show two buttons. One says “uninstall” and the other is an “open” button. Click “open”.
-5. A welcome dialogue box will appear.
-6. Your phone will ask you to whether you want to “Allow iAct to access photos, media and files on your device?”. There will be an option to “Deny” or “Allow”. Click “Allow”.
-
-	{% include image file="how-to-3.jpg"%}
-
-7. After clicking to allow the application to access photos, media and files, you will remain with the welcome dialogue box.
-
-8. Read the dialogue box and make sure you understand the note and then click “Got it”.
-
-9. The application will take you to the course menu that looks like the one below.
-
-	{% include image file="how-to-2.jpg"%}
-
-10. This is where you can start the iAct course. Start by studying the Introduction Section before moving on to the Modules 1, 2, 3 and 4.
-11. iAct is self-guided, so you will be guided on what to do at every step until you finish the course. But if you have any problems along the way, visit the “Help”section at the bottom of the menu after Module 4.
-12. Enjoy and good luck!
-
+1. If you don’t have the Google Play application on your Android device, download it [here](https://play.google.com/store). Go first to [Gmail](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp) if you do not have a Gmail account, yet.
+2. Use your Gmail account username and password to sign into the Google Play Store.
+3. Type “iAct” in the search box and enter to search. In case of several hits, choose the app showing the iAct
+logo. Note that Google Play Store will not offer the iAct application, if your device is not meeting the
+minimum requirements to run this application. In this case, chose the other download method (file for
+manual installation).
+4. Tap “Install” to start the installation of the app to your phone or tablet. The download progress is shown
+for a while and then it will automatically start installing. When installation has finished, tap “Open” to launch the app.
+5. A welcome dialogue box will appear. Allow iAct to access photos, media and files on your device by
+tapping “Allow”.
+6. Then read the dialogue box and make sure you understand the note. If you want to read it again when
+starting the app afresh, click “Cancel” to continue. If you don’t want to read this note again, click “Got it”.
+7. Don’t forget that the videos should be downloaded from the website. It is very important to save them to
+a certain place, either on the internal memory in a folder to be named /DCIM/iAct or to the memory card in
+a folder to be named /Videos.
+8. This is where you can start the iAct course. Begin by studying the Introduction section, before moving on
+to the Modules 1 to 4. The introduction includes a sample unit, which allows you to explore how the course
+works.
+9. iAct is self-guided, so you will be guided on what to do at every step until you finish the course. If you have any problems along the way, visit the “Help” section below Module 4.
+10. The best way to use iAct is in a group of 3-5 teachers. Each of you can register, as described on the
+website.
+11. Enjoy and good luck!
 
 ## Method 2 – setting up manually using provided files
 
-[Download the PDF manual](/pdfs/APK-android-manual.pdf) or follow the instructions below
+Download [PDF version for print-out](/pdfs/APK-android-manual.pdf) or follow the instructions below.
 
-If the videos are in the wrong place, the app can’t show them offline, but will try to stream a video from a server (requires good internet connection). 
-
-The best way to run the app is to have the videos on an SD card, so you should check whether the remaining storage on the SD card is > 7 GB (if not, consider to replace the SD card with a bigger one). Alternatively, you can copy the video files to the device’s internal storage (which also needs to have at least 7 GB remaining 
-
-1. [Click here to download the iAct app in a zip file](https://www.dropbox.com/sh/7ploeyhly2bsgtd/AAANJgF06cPTgBun-1SNZbF6a?dl=1) and save it to the main directory (no subfolder!) either of the SD card or of the internal storage of your device.
-
-2. Extract/Unzip the files to a folder to be named `/DCIM/iAct` or to the memory card in a folder to be named `/Videos`.
-
-2. Check whether the folder *Videos* contains all 4+39 iAct videos (never change any names) as well as the application file (*iact.apk*) and the pdf reader (*AdobeReader.apk*).
-
-3. Use a file manager or *Settings/Storage* to select the folder *Videos* and press the iact.apk file to start the installation of the course app.  
-
-4. Before you can finish, you need to go to *Settings* and switch on *Unknown Sources*. On some devices, you have to start the iact.apk again to complete installation. Finish the installation by pressing *Done* (not *Open*).
-
-5. If you don’t have a pdf reader app installed, start the AdobeReader.apk (also in the *Videos* folder), press *Install* and finish installation again with *Done*.  
-
-6. On some devices, *Unknown Sources* are not switched off automatically again and should then be switched off manually (settings). 
-
-7. You can now run the iAct app (assuming that your device has a video app installed). 
-
-8. The app is mostly self-explanatory. However, to be able to do the self-assessments and weekly tests, you need to first register as a user (see *Registration* in the *Introduction* menu). This is only possible, if an administrator with an admin password has entered an “EMIS” number (up to 7 digits, meant to identify the school of a participant). If required, please ask for the admin password: [foundation@rogerfederer.com](mailto:foundation@rogerfederer.com)
+1. The file iAct.apk is the main application installation file. Download it [here](https://www.dropbox.com/sh/i09tp2j3fnpmrod/AABNf8yMSuhvreFjRgPrTvrza?dl=1) to save it to your device’s internal storage or memory card.
+2. Use a file manager (or on some devices in the settings menu the item “storage/explore”) to find and start
+the iAct.apk file. Typically, you have to allow “installation from unknown sources” in the settings of your
+device.
+3. When installation has finished, tap the iAct icon to start the application.
+4. A welcome dialogue box will appear (see to the right). Allow iAct to access photos, media and files on your
+device by tapping “Allow”.
+5. Then read the dialogue box and make sure you understand the note. If you want to read it again when
+starting the app afresh, click “Cancel” to continue. If you don’t want to read this note again, click “Got it”.
+6. Don’t forget that the videos should be downloaded from the website. It is very important to save them to
+a certain place, either on the internal memory in a folder to be named /DCIM/iAct or to the memory card in
+a folder to be named /Videos.
+7. This is where you can start the iAct course. Begin by studying the Introduction section, before moving on
+to the Modules 1 to 4. The introduction includes a sample unit, which allows you to explore how the course
+works.
+8. iAct is self-guided, so you will be guided on what to do at every step until you finish the course. If you
+have any problems along the way, visit the “Help” section below Module 4.
+9. The best way to use iAct is in a group of 3-5 teachers. Each of you can register, as described on the
+website.
+10. Enjoy and good luck!

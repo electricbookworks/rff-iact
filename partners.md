@@ -4,7 +4,7 @@ title: Partners
 
 # Partners
 
-iAct is a collaborative effort of several partners. The Roger Federer Foundation has led and funded the development and implementation of the course. The technical design of the course was done in partnership with the South African Institute for Distance Education  (Saide). The lead partner in Zambia, The Reformed Open Community Schools (ROCS), has been a lead partner and project coordinator working with a number of local partners who include Zambia Open Community Schools (ZOCS), Peoples Action Forum (PAF) and Diakonia. 
+iAct is a collaborative effort of several partners. The Roger Federer Foundation has led and funded the development and implementation of the course. The technical design of the course was done in partnership with the South African Institute for Distance Education  (Saide). The lead partner in Zambia, the Reformed Open Community Schools (ROCS), has been a lead partner and project coordinator working with a number of local partners who include Development Aid from People to People (DAPP), Zambia Open Community Schools (ZOCS), Peoples Action Forum (PAF) and Diakonia. 
 
 [The Roger Federer Foundation](https://www.rogerfedererfoundation.org) supports access to quality education for marginalised and vulnerable children in Switzerland and in six Southern African countries, namely Botswana, Namibia, Zambia, Zimbabwe, Malawi and South Africa. The Foundation works exclusively in partnership with and through local non-governmental organisations. In turn, the local implementing partners work directly with schools, local communities, and national and local governments. 
 
@@ -14,8 +14,8 @@ iAct is a collaborative effort of several partners. The Roger Federer Foundation
 
 [Development Aid from People to People](http://www.dappzambia.org) (DAPP) has been the main co-implementing partner in the iAct programme already in 2017/2018. 
 
-[Zambia Open Community Schools](http://zambiaopencommunityschools.com) (ZOCS) is one of the Zambian partners of the Roger Federer Foundation, other than the iAct programme. 
+[Zambia Open Community Schools](http://zambiaopencommunityschools.com) (ZOCS) is one of the Roger Federer Foundation in early childhood and community school programmes other than iAct.
 
 [Peoples Action Forum](http://paf.org.zm/?v=70f73ee5133f) (PAF) is a Zambian non-governmental organisation whose work involves ensuring, protecting, and advancing the rights of poor and marginalised people through non-formal education, and the empowerment of rural communities to protect and claim their rights to resources in order to secure their livelihood. 
 
-Diakonia is a faith-based Swedish development organization that works with about 350 local partner organizations in 25 countries to ensure that more people are able to live dignified lives. Visit [their website](https://www.diakonia.se/en/Where-we-work/Africa/Zambia/) to learn more about their work in Zambia.
+[Diakonia](https://www.diakonia.se/en/Where-we-work/Africa/Zambia/) is a faith-based organization who runs development projects focusing on building capacity in individuals, families and communities in improving their living since 1989.

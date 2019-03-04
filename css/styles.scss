@@ -156,6 +156,8 @@ a.button {
 	background-color: $link-color;
 	color: $background-color-light;
 	padding: 1em 2em;
+	text-transform: uppercase;
+	letter-spacing: 0.025em;
 }
 
 a.button:hover, input[type="submit"]:hover{

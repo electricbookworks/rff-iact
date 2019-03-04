@@ -28,13 +28,18 @@ There are two methods of downloading and setting up iAct on an Android device.
 
 You could either download the iAct application on Google Play or manually set up the application using an apk file provided through this website.
 
-In both cases, it is advised to download all videos from this website for offline use. The video files need to be saved either to the path “DCIM/iAct” in the internal storage or to the path “Videos” on the memory card and must not be renamed. Note that about 2GB free storage are needed for the videos. Download the videos [here](https://www.dropbox.com/sh/i09tp2j3fnpmrod/AABNf8yMSuhvreFjRgPrTvrza?dl=1&preview=iAct.zip).
+In both cases, it is advised to download all videos from this website for offline use. The video files need to be saved either to the path “DCIM/iAct” in the internal storage or to the path “Videos” on the memory card and must not be renamed. Note that about 2GB free storage are needed for the videos. 
+
+**Warning: the videos are a 2GB download.** Download the videos only over a fast, low-cost connection to avoid high data costs.
+{:.box}
+
+[Download videos (2GB)](){:.button}
 
 ## Method 1 – Setting up via GooglePlay
 
 Download [PDF version for print-out](/pdfs/GooglePlay-android-manual.pdf) or follow the instructions below.
 
-[DOWNLOAD THE APP NOW](https://play.google.com/store/apps/details?id=io.rff.saide.iact){: .button}
+[Download the app now](https://play.google.com/store/apps/details?id=io.rff.saide.iact){: .button}
 
 1. If you don’t have the Google Play application on your Android device, download it [here](https://play.google.com/store). Go first to [Gmail](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp) if you do not have a Gmail account, yet.
 2. Use your Gmail account username and password to sign into the Google Play Store.
@@ -55,7 +60,7 @@ a folder to be named /Videos.
 to the Modules 1 to 4. The introduction includes a sample unit, which allows you to explore how the course
 works.
 9. iAct is self-guided, so you will be guided on what to do at every step until you finish the course. If you have any problems along the way, visit the “Help” section below Module 4.
-10. The best way to use iAct is in a group of 3-5 teachers. Each of you can register, as described on the
+10. The best way to use iAct is in a group of 3–5 teachers. Each of you can register, as described on the
 website.
 11. Enjoy and good luck!
 

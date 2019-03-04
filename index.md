@@ -12,11 +12,11 @@ In terms of the course structure and content, iAct has a total of four modules w
 
 {% include youtube id="lB1ZoPHT3Lc" %}
 
----
+
 # Why iAct?
 
 In the 1990s and early 2000s, access to primary education was limited and Zambian citizens started setting up community supported schools that were manned by untrained volunteer teachers. While lack of teacher training is often compensated by intrinsic motivation to a certain extent, many volunteer teachers are not skilled in contemporary teaching and learning methodologies that emphasize learning by doing. Even for trained government teachers, this approach has only been emphasised by Zambia’s new curriculum in 2013. Beyond the Zambian experience, iAct is applicable in any education system that faces similar challenges. [Learn more](iact-in-zambia) about the Zambian iAct case study.
 
 {% include image file="case-study-1.jpg"%}
 
-[DOWNLOAD NOW](https://play.google.com/store/apps/details?id=io.rff.saide.iact){: .button}
+[Download now](https://play.google.com/store/apps/details?id=io.rff.saide.iact){: .button}

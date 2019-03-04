@@ -10,7 +10,7 @@ iAct stands for “interactive learning and teaching”. iAct teaching methods b
 
 In terms of the course structure and content, iAct has a total of four modules which are each covered over a five week period. The course is therefore done over the course of 20 weekly exercises. [See the course structure here](course-structure) and learn more about the iAct programme in Zambia in the video below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lB1ZoPHT3Lc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube id="lB1ZoPHT3Lc" %}
 
 ---
 # Why iAct?

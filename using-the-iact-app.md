@@ -33,7 +33,7 @@ In both cases, it is advised to download all videos from this website for offlin
 **Warning: the videos are a 2GB download.** Download the videos only over a fast, low-cost connection to avoid high data costs.
 {:.box}
 
-[Download videos (2GB)](){:.button}
+[Download videos (2GB)](https://www.dropbox.com/sh/i09tp2j3fnpmrod/AABNf8yMSuhvreFjRgPrTvrza?dl=1){:.button}
 
 ## Method 1 – Setting up via GooglePlay
 

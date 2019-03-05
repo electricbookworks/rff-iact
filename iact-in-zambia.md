@@ -19,7 +19,7 @@ The NGO partners in turn trained MoGE officials as course facilitators at distri
 A one-day orientation of teachers in each zone was carried out by ZICs. The orientation involves demonstrations on how to use the tablet, the study guide and role plays on how to work through the course in groups, register for the self-tests and how these would be monitored by course supervisors.
 
 For monitoring course progress and identifying challenges, after each self-test, the course generates a code that needs to be sent to a prescribed phone number via sms. The code sent generates information in the database and informs supervisors at the supporting organisation, at the zone and at district level, of progress in the course. If users are not registered with their geographical details by the facilitators in the database, they can still benefit fully from the course, but the support group cannot contact them in case of low activity, indicating possible challenges in using the app. It is therefore a huge advantage to register for the sms communication and to send codes consistently. For guidelines on registration and instructions for sending codes after each self-test, [check the instructions on how to
-install the course app (800K PDF)](/pdfs/GooglePlay-android-manual.pdf).
+install the course app](/using-the-iact-app).
 
 After the orientation, teachers were given the tablet, study modules and recharging equipment to take back to their schools and embarked on the course in weekly group activities.
 The table below outlines how the course is delivered.

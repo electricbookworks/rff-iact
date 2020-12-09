@@ -33,8 +33,9 @@ textarea {
 
 // Buttons
 
-a.button, input[type="submit"] {
+a.button, input[type="submit"], button {
 	background-color: $background-color-mid;
+	font-family: $font-main;
 	padding: 0.5em 1em;
 	margin: 0 0.5em 0.5em 0;
 	border-radius: $border-radius;
@@ -53,4 +54,17 @@ a.button, input[type="submit"] {
 input[type="submit"] {
 	float: right;
 	margin-right: 0;
+}
+
+button.copy-to-clipboard {
+	background-color: $background-color-light;
+	border: 1px solid $text-color-mid;
+	box-shadow: none;
+	color: $text-color-dark;
+	cursor: pointer;
+	font-weight: normal;
+	margin-left: 1rem;
+	&:hover {
+		background-color: $text-color-light;
+	}
 }
